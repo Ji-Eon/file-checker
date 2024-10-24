@@ -1,4 +1,6 @@
 {
+  "name": "inspector-filechecker",
+  "version": "1.0.1",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
@@ -9,12 +11,12 @@
     "test": "jest"
   },
   "jest": {
-    "preset": "ts-jest",  
-    "testEnvironment": "node",  
+    "preset": "ts-jest",
+    "testEnvironment": "node",
     "transform": {
-      "^.+\\.tsx?$": "ts-jest"  
+      "^.+\\.tsx?$": "ts-jest"
     },
-    "moduleFileExtensions": ["ts", "tsx", "js", "json"], 
+    "moduleFileExtensions": ["ts", "tsx", "js", "json"],
     "globals": {
       "ts-jest": {
         "tsconfig": "tsconfig.json"

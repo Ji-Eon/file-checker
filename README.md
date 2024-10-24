@@ -19,43 +19,44 @@ This library supports a wide range of common file formats and their associated M
 #### Extensions
 [ jpg, jpeg, png, gif, bmp, tiff, svg, webp, ico, heic, heif, raw, psd, ai, eps ]
 #### MIME Types
-image/jpeg
-image/png
-image/gif
-image/bmp
-image/tiff
-image/svg+xml
-image/webp
-image/x-icon
-image/heic
-image/heif
-image/x-raw
-image/vnd.adobe.photoshop
-application/postscript
-application/illustrator
-Document Formats:
-Extensions: pdf, doc, docx, ppt, pptx, xls, xlsx, csv, txt, rtf
-MIME Types:
-application/pdf
-application/msword
-application/vnd.openxmlformats-officedocument.wordprocessingml.document
-application/vnd.ms-powerpoint
-application/vnd.openxmlformats-officedocument.presentationml.presentation
-application/vnd.ms-excel
-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-text/csv
-text/plain
-application/rtf
+image/jpeg  
+image/png  
+image/gif  
+image/bmp  
+image/tiff  
+image/svg+xml  
+image/webp  
+image/x-icon  
+image/heic  
+image/heif  
+image/x-raw  
+image/vnd.adobe.photoshop  
+application/postscript  
+application/illustrator  
+### Document Formats
+#### Extensions
+[ pdf, doc, docx, ppt, pptx, xls, xlsx, csv, txt, rtf ] 
+#### MIME Types
+application/pdf   
+application/msword  
+application/vnd.openxmlformats-officedocument.wordprocessingml.document  
+application/vnd.ms-powerpoint  
+application/vnd.openxmlformats-officedocument.presentationml.presentation  
+application/vnd.ms-excel  
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet  
+text/csv  
+text/plain  
+application/rtf  
 
 ### Compressed File Formats
 #### Extensions
 [ zip, rar, 7z, tar, gz ] 
 #### MIME Types
-application/zip
-application/x-rar-compressed
-application/x-7z-compressed
-application/x-tar
-application/gzip
+application/zip  
+application/x-rar-compressed  
+application/x-7z-compressed  
+application/x-tar  
+application/gzip  
 
 ### Installation
 
